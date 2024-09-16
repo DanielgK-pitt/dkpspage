@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
- 
+ <greetings expression="friendly">hello world from daniel</greetings>
 </root>
